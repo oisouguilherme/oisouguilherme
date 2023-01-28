@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Guilherme Henrique 🖐️
-Sou desenvolvedor front-end com experiência em projetos pessoais e Freelancer. Atualmente, estou me especializando em estudos e buscando uma oportunidade de trabalhar em home office. Sou apaixonado por tecnologia e sempre busco me atualizar com as últimas tendências e ferramentas do mercado. Tenho habilidades em HTML, CSS e JavaScript, além de conhecimentos avançados em frameworks como React. Acredito que minhas habilidades e experiência podem contribuir para o sucesso de qualquer projeto e estou ansioso para encontrar uma empresa onde possa continuar me desenvolvendo e crescendo profissionalmente.
+Sou um desenvolvedor web junior, apaixonado por tecnologia e sempre buscando me atualizar e aprender novas habilidades. Em meu perfil no GitHub, você poderá encontrar projetos pessoais que desenvolvi utilizando as minhas habilidades em HTML, CSS, JavaScript e React.
+Gostaria de convidá-los a visitar meu perfil e conhecer meu trabalho. Estou sempre aberto a feedbacks e sugestões para melhorar meus projetos e desenvolver minhas habilidades.
+Obrigado pela atenção e espero poder contribuir com minhas habilidades em algum projeto futuro.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-0922a2205/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme.militao/)
