@@ -22,6 +22,4 @@
     <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
 
-Tenho 19 anos, e busco uma oportunidade de trabalho em Home Office na área de progamação e desenvolvimento Web. Estou estudando a 6 meses, tenho conhecimentos basicos em HTML5, CSS3 e JavaScript, sigo focado fazendo cursos e estudando outros conteudos. <br/>
-
 
