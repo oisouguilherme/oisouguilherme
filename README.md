@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Guilherme Henrique 🖐️
-Sou um desenvolvedor web junior, apaixonado por tecnologia e sempre buscando me atualizar e aprender novas habilidades. Em meu perfil no GitHub, você poderá encontrar projetos pessoais que desenvolvi utilizando as minhas habilidades em HTML, CSS, JavaScript e React.
+Sou um desenvolvedor web junior, apaixonado por tecnologia e sempre buscando me atualizar e aprender novas habilidades. Em meu perfil no GitHub, você poderá encontrar projetos pessoais que desenvolvi utilizando as minhas habilidades em HTML, CSS, JavaScript, React, TailwindCSS entre outros.
 Gostaria de convidá-los a visitar meu perfil e conhecer meu trabalho. Estou sempre aberto a feedbacks e sugestões para melhorar meus projetos e desenvolver minhas habilidades.
 Obrigado pela atenção e espero poder contribuir com minhas habilidades em algum projeto futuro.
 
