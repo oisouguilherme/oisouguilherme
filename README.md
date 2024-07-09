@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Guilherme Henrique 🖐️
-Sou um desenvolvedor web junior, apaixonado por tecnologia e sempre buscando me atualizar e aprender novas habilidades. Em meu perfil no GitHub, você poderá encontrar projetos pessoais que desenvolvi utilizando as minhas habilidades em HTML, CSS, JavaScript, React, TailwindCSS entre outros.
-Gostaria de convidá-los a visitar meu perfil e conhecer meu trabalho. Estou sempre aberto a feedbacks e sugestões para melhorar meus projetos e desenvolver minhas habilidades.
-Obrigado pela atenção e espero poder contribuir com minhas habilidades em algum projeto futuro.
+Sou um desenvolvedor Frontend, formado em Analise e Desenvolvimento de Sistemas, com experiencia em Desenvolvimento de sites, campanhas e sistemas web para clientes (CAIXA, BB, CONFEA, BDW). Trabalho diariamente usando React e TailwindCSS no Frontend, e Node com AdonisJS no Backend. Já atuei em projetos usando: Angular JS, Ionic, React Native, NextJS , NodeJS, AdonisJS e SCSS.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-0922a2205/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme.militao/)
