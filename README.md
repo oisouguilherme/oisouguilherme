@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Guilherme Henrique 🖐️
-Sou um desenvolvedor Frontend, formado em Analise e Desenvolvimento de Sistemas, com experiencia em Desenvolvimento de sites, campanhas e sistemas web para clientes (CAIXA, BB, CONFEA, BDW). Trabalho diariamente usando React e TailwindCSS no Frontend, e Node com AdonisJS no Backend. Já atuei em projetos usando: Angular JS, Ionic, React Native, NextJS , NodeJS, AdonisJS e SCSS.
+Desenvolvedor Full Stack com forte atuação em React e TypeScript, especializado na construção de aplicações web modernas, interativas e de alta performance. Experiência comprovada em 40+ projetos entregues em 2025, atendendo empresas de grande porte e eventos nacionais e internacionais como Banco do Brasil, Petrobras, CCBB, SEBRAE, Web Summit e CCXP. Atuação completa em frontend, backend, cloud e CI/CD, com foco em qualidade de código, escalabilidade e experiência do usuário.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-0922a2205/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme.militao/)
